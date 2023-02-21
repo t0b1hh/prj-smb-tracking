@@ -2,6 +2,13 @@
 SMB Tracking Analyse + Konzept
 
 
+SMB = Systeme (Beladung, Abfülllung, Palletierer, Fördertechnik etc)
+MBA = Messtechnik (Füllstand, Leitfähigkeit, Lot, Drehflügel)
+
+SMB Group = SMB + MBA
+
+
+
 # Status
 
 ## Google Analytics Properties
@@ -24,7 +31,7 @@ SMB Tracking Analyse + Konzept
 
 ## Google Ads
 
-- 122-985-0074 (SMB) -- alle Kampagnen pausiert/beendet
+- 122-985-0074 (SMB) -- alle Kampagnen pausiert/beendet, letzte Aktivität in Woche 5.12.22
   - SMB | MBA
   - SMB | MBA Ziel CPA Test
   - Onlineshop Füllstandmelder
