@@ -14,14 +14,14 @@ SMB Tracking Analyse + Konzept
 
 - GTM MBA Instruments (UA-100886228-5)
 - GTM MBA Instruments  – GA4 (339644545)
-- GTM SMB Group (UA-100886228-6) -> Ads
-- GTM SMB International (UA-100886228-7) <-> Ads, Tagmanager
+- GTM SMB Group (UA-100886228-6)||Ads|
+- GTM SMB International (UA-100886228-7)|Daten seit Mrz 2019 und kurz Sept'18 bis heute|Ads, Tagmanager|
 - GTM SMB International  – GA4 (339621906)
 - Konfigurator easyKAT (UA-100886228-4)
 - MBA Instruments (UA-100886228-3)
 - Onlineshop Füllstandmelder (UA-100886228-8)
 - SMB Group (UA-100886228-1)
-- SMB International (UA-100886228-2)
+- SMB International (UA-100886228-2)|Daten bis Mrz 21|
 
 ## Google Tagmanager 
 
