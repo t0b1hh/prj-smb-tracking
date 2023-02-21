@@ -49,19 +49,13 @@ Derzeit alle Kampagnen pausiert/beendet, letzte Aktivität in Woche 5.12.22
 
 Aktuell alle Conversion-Quellen = Universal Analytics
 
-- Lead-Formular senden
-  - SMB Group Kontaktformular (Alle Websitedaten) -> 0 conversions
-  - SMB Kontaktformular (Alle Websitedaten) -> 0 conversions
-
-- Anruf 
-  - Anrufe -> 0 conversions
-
-- Download
-  - Android installs (all other apps) -> 0 conversions
-
-- Seitenaufruf
-  - SMB Websitebesuch 1+ (Alle Websitedaten)  --> 242 conversions
-  - Intellligente Zielvorhaben (Alle Websitedaten) -> 0 conversions
-
-- Benutzerdefinierte
-  -  n/a
+|Typ|Name||Datenquelle|Conversions|
+|--|--|--|--|
+|Lead-Formular senden|SMB Group Kontaktformular (Alle Websitedaten)|GTM SMB Group (UA-100886228-6)|0|
+|Lead-Formular senden|SMB Kontaktformular (Alle Websitedaten)|GTM SMB International (UA-100886228-7)|0|
+|Anruf|Anrufe|Anrufe über Anzeigen|0|
+|Download|Android installs (all other apps)|Mobile App (Google Play)|0|
+|Engagement|SMB Group Websitebesuch 1+ (Alle Websitedaten)|GTM SMB Group (UA-100886228-6)|0|
+|Seitenaufruf|SMB Websitebesuch 1+ (Alle Websitedaten)|GTM SMB International (UA-100886228-7)|242|
+|Seitenaufruf|Intellligente Zielvorhaben (Alle Websitedaten)|GTM SMB International (UA-100886228-7)|0|
+|Benutzerdefinierte|n/a|||
