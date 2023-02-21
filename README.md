@@ -2,10 +2,9 @@
 SMB Tracking Analyse + Konzept
 
 
-SMB = Systeme (Beladung, Abfülllung, Palletierer, Fördertechnik etc)
-MBA = Messtechnik (Füllstand, Leitfähigkeit, Lot, Drehflügel)
-
-SMB Group = SMB + MBA
+- SMB = Systeme (Beladung, Abfülllung, Palletierer, Fördertechnik etc)
+- MBA = Messtechnik (Füllstand, Leitfähigkeit, Lot, Drehflügel)
+- SMB Group = SMB + MBA
 
 
 
