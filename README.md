@@ -29,6 +29,8 @@ SMB Group = SMB + MBA
 - SMB International GTM-PB6WMRR
   - Pageview -> UA-100886228-7
 
+
+
 ## Google Ads
 
 ### 122-985-0074 (SMB)
@@ -49,7 +51,8 @@ Derzeit alle Kampagnen pausiert/beendet, letzte Aktivität in Woche 5.12.22
 
 Aktuell alle Conversion-Quellen = Universal Analytics
 
-|Typ|Name||Datenquelle|Conversions|
+
+|Typ|Name|Datenquelle|Conversions|
 |--|--|--|--|
 |Lead-Formular senden|SMB Group Kontaktformular (Alle Websitedaten)|GTM SMB Group (UA-100886228-6)|0|
 |Lead-Formular senden|SMB Kontaktformular (Alle Websitedaten)|GTM SMB International (UA-100886228-7)|0|
