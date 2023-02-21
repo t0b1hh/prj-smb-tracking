@@ -17,7 +17,18 @@ SMB Tracking Analyse + Konzept
 - SMB Group (UA-100886228-1)
 - SMB International (UA-100886228-2)
 
-## Tagmanager 
+## Google Tagmanager 
 
 - SMB International GTM-PB6WMRR
   - Pageview -> UA-100886228-7
+
+## Google Ads
+
+- 122-985-0074 (SMB) -- alle Kampagnen pausiert/beendet
+  - SMB | MBA
+  - SMB | MBA Ziel CPA Test
+  - Onlineshop Füllstandmelder
+  - Smart Display - SMB Group
+  - Smart Display SMB Group EN
+  - SMB/MBA EN
+  - Leads-Display-3
