@@ -15,8 +15,8 @@ SMB Group = SMB + MBA
 
 - GTM MBA Instruments (UA-100886228-5)
 - GTM MBA Instruments  – GA4 (339644545)
-- GTM SMB Group (UA-100886228-6)
-- GTM SMB International (UA-100886228-7) <- Tagmanager
+- GTM SMB Group (UA-100886228-6) -> Ads
+- GTM SMB International (UA-100886228-7) <-> Ads, Tagmanager
 - GTM SMB International  – GA4 (339621906)
 - Konfigurator easyKAT (UA-100886228-4)
 - MBA Instruments (UA-100886228-3)
